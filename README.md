@@ -1,2 +1,2 @@
 # schizophreniaVWM
-The data for visual working memory modeling of schizophrenia
+The data for visual working memory modeling of schizophrenia.
